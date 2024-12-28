@@ -34,7 +34,7 @@ This is an Android application simulating a real-world traffic light system. The
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/traffic-light-simulation.git
+   git clone https://github.com/your-repository/traffic-light.git
    ```
 2. Open the project in Android Studio.
 3. Sync Gradle to download dependencies.
